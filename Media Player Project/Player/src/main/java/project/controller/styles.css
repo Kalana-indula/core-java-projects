@@ -1,0 +1,11 @@
+/*.button{*/
+/*    -fx-background-color: transparent;*/
+
+/*}*/
+
+#playBtn{
+    -fx-background-image: url("../resources/images/play.png");
+    -fx-background-size: 20 20;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
